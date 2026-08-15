@@ -11,4 +11,3 @@ Un chatbot inteligente que responde automáticamente preguntas sobre horarios, t
 - 🤖 **Genera respuestas** → Usa inteligencia artificial para escribir respuestas claras
 - 📱 **Funciona en WhatsApp** → Los usuarios reciben respuestas en su celular
 
-## Ejemplo
